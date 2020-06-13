@@ -1,0 +1,13 @@
+graph {
+	node [coler=black shape=circle]
+	n08 -- n18 [label=1341 penwidth=13.41]
+	n08 -- n11 [label=1006 penwidth=10.06]
+	n18 -- n12 [label=960 penwidth=9.6]
+	n08 -- n12 [label=718 penwidth=7.18]
+	n04 -- n18 [label=663 penwidth=6.63]
+	n11 -- n12 [label=644 penwidth=6.44]
+	n04 -- n08 [label=575 penwidth=5.75]
+	n04 -- n11 [label=560 penwidth=5.6]
+	n37 -- n04 [label=558 penwidth=5.58]
+	n23 -- n18 [label=454 penwidth=4.54]
+}
