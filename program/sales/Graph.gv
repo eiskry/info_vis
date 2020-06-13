@@ -1,5 +1,5 @@
 graph {
-	node [coler=black fontsize=10 shape=circle width=0.02]
+	node [coler=black fontsize=16 shape=circle width=0.02]
 	n04 -- n08 [len=6 penwidth=5.75]
 	n04 -- n11 [len=6 penwidth=5.6]
 	n04 -- n12 [len=6 penwidth=3.66]
